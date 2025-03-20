@@ -2,8 +2,6 @@
 
 A fun implementation of the classic Flappy Bird game that you control with your facial expressions! Smile to make the bird fly up and maintain a neutral expression to let the bird fall down.
 
-![Flappy Bird Game](https://i.imgur.com/example.png)
-
 ## Features
 
 - **Facial Expression Control**: Control the bird by smiling (fly up) or maintaining a neutral expression (fall down)
